@@ -3,7 +3,7 @@
 #### 微博：畸形滴小男孩
 ##### 闪光Lable（可模拟iphone解锁效果）
 
-###效果预览：
+###效果预览：</br>
  ![image](https://github.com/976431yang/YQLightLable/blob/master/YQLightLableDemo/Screenshot/2017-07-20-10_24_41.gif)
 
 -直接拖到工程中使用
