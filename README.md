@@ -11,7 +11,7 @@
 #import "YQLightLab.h"
 ```
 ### Example Code:
-##### 最简单使用：
+#### 最简单使用(默认效果)：
 ```objective-c
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -28,7 +28,7 @@
 }
 ```
 
-##### 自定义效果：
+#### 自定义效果：
 ```objective-c
 	
 	//文字颜色
@@ -51,8 +51,8 @@
 	lab.direction = YQLightLableDirectionToDown;
 ```
 
-##### UILable常用设置
-####### 以下属性，可以直接设置：
+#### UILable常用设置
+##### 以下属性，可以直接设置：
 ```objective-c
 	lab.text
 	lab.font
@@ -62,7 +62,7 @@
 	lab.attributedText
 	lab.adjustsFontSizeToFitWidth
 ```
-####### 更多UILable的设置，请访问“.UILable”属性进行设置：
+##### 更多UILable的设置，请访问“.UILable”属性进行设置：
 ```objective-c
 	lab.UILable.enabled ....
 ```
